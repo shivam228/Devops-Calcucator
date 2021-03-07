@@ -1,0 +1,10 @@
+---
+- name: Pull and Run docker image
+  hosts: all
+  tasks:
+    - name: Pull shiv228/demo_calci
+      docker_image:
+        name: shiv228/demo_calci
+        source: pull
+    
+
