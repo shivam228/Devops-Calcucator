@@ -61,7 +61,7 @@ public class Calcuator
                         System.out.println(Math.sqrt(num1));
                         break;
                     case 2:
-                        System.out.println("Factorial");
+                        System.out.println("Factorial of a Number");
                         System.out.println("Enter number");
                         num1 = reader.nextDouble();
                         int i,fact=1;
