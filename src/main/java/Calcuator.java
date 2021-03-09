@@ -37,7 +37,7 @@ public class Calcuator
         System.out.println("Calculator System");
         do
         {
-            System.out.println("Option Menu");
+            System.out.println("Option Menu For Calcuator");
             System.out.println("");
             System.out.println("1) Square Root");
             System.out.println("2) Factorial");
