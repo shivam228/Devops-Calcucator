@@ -21,7 +21,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>calcuator.Calc</mainClass>
+                                    <mainClass>calculator.Calc</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
@@ -54,8 +54,8 @@
     </dependencies>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
 </project>
