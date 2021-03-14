@@ -3,9 +3,9 @@
   hosts: all
   tasks:
     
-    - name: Pull shiv228/demo_calci
+    - name: Pull shiv228/calculator
       docker_image:
-        name: shiv228/demo_calci
+        name: shiv228/calculator
         source: pull
   vars:
     ansible_python_interpreter: /bin/python3
