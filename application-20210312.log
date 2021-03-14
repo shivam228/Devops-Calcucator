@@ -1,0 +1,40 @@
+2021-03-12 14:31:11.979 [main] INFO  calculator.Calc - Result of factorial is: 6.0
+2021-03-12 14:31:11.982 [main] INFO  calculator.Calc - Result of factorial is: 120.0
+2021-03-12 14:31:11.985 [main] INFO  calculator.Calc - Calculating Square root  of number 9.0
+2021-03-12 14:31:11.985 [main] INFO  calculator.Calc - Result of squareRoot is : 3.0
+2021-03-12 14:31:11.985 [main] INFO  calculator.Calc - Calculating Square root  of number 16.0
+2021-03-12 14:31:11.986 [main] INFO  calculator.Calc - Result of squareRoot is : 4.0
+2021-03-12 14:31:11.986 [main] INFO  calculator.Calc - Calculating Square root  of number -10.0
+2021-03-12 14:31:11.986 [main] ERROR calculator.Calc - Number cannot be negative Case of NaN squareRoot of < 0
+2021-03-12 14:31:11.987 [main] INFO  calculator.Calc - Result of squareRoot is : NaN
+2021-03-12 14:31:11.987 [main] INFO  calculator.Calc - Calculating Natural log of 17.0
+2021-03-12 14:31:11.987 [main] INFO  calculator.Calc - Result of naturalLog is : 2.833213344056216
+2021-03-12 14:31:11.988 [main] INFO  calculator.Calc - Calculating Natural log of 6.0
+2021-03-12 14:31:11.988 [main] INFO  calculator.Calc - Result of naturalLog is : 1.791759469228055
+2021-03-12 14:31:11.988 [main] INFO  calculator.Calc - Calculating Natural log of 0.0
+2021-03-12 14:31:11.988 [main] ERROR calculator.Calc - Number cannot be negative Case of NaN log of <= 0
+2021-03-12 14:31:11.989 [main] INFO  calculator.Calc - Result of naturalLog is : NaN
+2021-03-12 14:31:11.989 [main] INFO  calculator.Calc - Calculating Square root  of number 10.0
+2021-03-12 14:31:11.989 [main] INFO  calculator.Calc - Result of squareRoot is : 3.1622776601683795
+2021-03-12 14:31:11.990 [main] INFO  calculator.Calc - Calculating Square root  of number 16.0
+2021-03-12 14:31:11.990 [main] INFO  calculator.Calc - Result of squareRoot is : 4.0
+2021-03-12 14:31:11.990 [main] INFO  calculator.Calc - Calculating Square root  of number -16.0
+2021-03-12 14:31:11.990 [main] ERROR calculator.Calc - Number cannot be negative Case of NaN squareRoot of < 0
+2021-03-12 14:31:11.991 [main] INFO  calculator.Calc - Result of squareRoot is : NaN
+2021-03-12 14:31:11.991 [main] INFO  calculator.Calc - Calculating Natural log of 14.0
+2021-03-12 14:31:11.992 [main] INFO  calculator.Calc - Result of naturalLog is : 2.6390573296152584
+2021-03-12 14:31:11.992 [main] INFO  calculator.Calc - Calculating Natural log of 9.0
+2021-03-12 14:31:11.992 [main] INFO  calculator.Calc - Result of naturalLog is : 2.1972245773362196
+2021-03-12 14:31:11.992 [main] INFO  calculator.Calc - Calculating Natural log of 0.0
+2021-03-12 14:31:11.993 [main] ERROR calculator.Calc - Number cannot be negative Case of NaN log of <= 0
+2021-03-12 14:31:11.993 [main] INFO  calculator.Calc - Result of naturalLog is : NaN
+2021-03-12 14:31:11.994 [main] INFO  calculator.Calc - Result of factorial is: 6.0
+2021-03-12 14:31:11.994 [main] INFO  calculator.Calc - Result of factorial is: 120.0
+2021-03-12 14:31:11.994 [main] INFO  calculator.Calc - Calculating Power  of two numbers 2.0 and 3.0
+2021-03-12 14:31:11.995 [main] INFO  calculator.Calc - Result of power is : 8.0
+2021-03-12 14:31:11.995 [main] INFO  calculator.Calc - Calculating Power  of two numbers 3.0 and 3.0
+2021-03-12 14:31:11.995 [main] INFO  calculator.Calc - Result of power is : 27.0
+2021-03-12 14:31:11.996 [main] INFO  calculator.Calc - Calculating Power  of two numbers 2.0 and 2.0
+2021-03-12 14:31:11.996 [main] INFO  calculator.Calc - Result of power is : 4.0
+2021-03-12 14:31:11.997 [main] INFO  calculator.Calc - Calculating Power  of two numbers 3.0 and 3.0
+2021-03-12 14:31:11.997 [main] INFO  calculator.Calc - Result of power is : 27.0
