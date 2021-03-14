@@ -1,0 +1,13 @@
+---
+- name: Pull and Run docker image
+  hosts: all
+  tasks:
+    
+    - name: Pull shiv228/demo_calci
+      docker_image:
+        name: shiv228/demo_calci
+        source: pull
+  vars:
+    ansible_python_interpreter: /bin/python3
+    
+
