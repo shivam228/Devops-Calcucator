@@ -41,7 +41,7 @@ public class Calc {
                         return;
                     }
                     System.out.println("================================================");
-                    System.out.println("Square root is: " + calculator.squareRoot(num));
+                    System.out.println("Square root of a number is is: " + calculator.squareRoot(num));
                     System.out.println("================================================");
                     break;
                 case 2:
@@ -53,7 +53,7 @@ public class Calc {
                         return;
                     }
                     System.out.println("================================================");
-                    System.out.println("Factorial is: " + calculator.factorial(num));
+                    System.out.println("Factorial of a number is: " + calculator.factorial(num));
                     System.out.println("================================================");
                     break;
                 case 3:
@@ -65,7 +65,7 @@ public class Calc {
                         return;
                     }
                     System.out.println("================================================");
-                    System.out.println("Natural log is : " + calculator.naturalLog(num));
+                    System.out.println("Natural log of number is : " + calculator.naturalLog(num));
                     System.out.println("================================================");
                     break;
                 case 4:
